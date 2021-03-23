@@ -3,7 +3,7 @@
 <!--
 **saitharun24/saitharun24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-## A. Sai Tharun <hr>
+## A. Sai Tharun
 
 mailto:saitharun24@gmail.com
 
