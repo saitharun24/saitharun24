@@ -13,9 +13,9 @@ A Firm believer of the statement 'Growth ceases when learning stops' and see eve
 - 👯 Exciting new projects are always a go go for me.
 - 😄 Wanderlust, Amiable, Approachable, Autodidact, etc.,.
 - ⚡ Fun facts: 
-     1. I happen to have good experience in conducting events too.
-     2. I love photography, taking short films, audio and video editing.
-     3. I write poems, blogs at quora and other places.
+     1. May have conducted events.
+     2. May love photography, taking short films, audio and video editing.
+     3. May write poems, blogs at quora and other places.
 
 <!--
 **saitharun24/saitharun24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
