@@ -2,7 +2,7 @@
 
 ## A. Sai Tharun
 
-mailto:saitharun24@gmail.com
+saitharun24@gmail.com
 
 I am Sai Tharun, An aspiring app/web developer with a special interest in machine learning and data analysis.
 
