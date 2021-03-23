@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-<!--
-**saitharun24/saitharun24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## A. Sai Tharun
+
+mailto:saitharun24@gmail.com
 
 I am Sai Tharun, An aspiring app/web developer with a special interest in machine learning and data analysis.
 
@@ -18,3 +17,5 @@ A Firm believer of the statement 'Growth ceases when learning stops' and see eve
      2. I love photography, taking short films, audio and video editing.
      3. I write poems, blogs at quora and other places.
 
+<!--
+**saitharun24/saitharun24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
