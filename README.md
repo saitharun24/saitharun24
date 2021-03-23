@@ -5,8 +5,6 @@
 
 ## A. Sai Tharun
 
-mailto:saitharun24@gmail.com
-
 I am Sai Tharun, An aspiring app/web developer with a special interest in machine learning and data analysis.
 
 A Firm believer of the statement 'Growth ceases when learning stops' and see every new opportunity as learning potential. 
