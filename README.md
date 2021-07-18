@@ -8,8 +8,8 @@ I am Sai Tharun, An aspiring app/web developer with a special interest in machin
 
 A Firm believer of the statement 'Growth ceases when learning stops' and see every new opportunity as learning potential. 
 
-- 🔭 I’m currently working on building engaging and new class of apps using flutter
-- 🌱 I’m currently learning Machine Learning and Data Analysis
+- 🔭 I’m currently working on building engaging and new class of apps using flutter.
+- 🌱 I’m currently learning [Machine Learning and Data Analysis](https://docs.google.com/document/d/1qhv-jP5PryAOzqifTfnsy04I5R6OybGDzpsOScSNAIM/edit?usp=sharing) along with [Image Processing](https://docs.google.com/document/d/1hSDgMjwZIRqr_x7kdjRixooQmDYCEcXIaPQyK2ggp74/edit?usp=sharing).
 - 👯 Exciting new projects are always a go go for me.
 - 😄 Wanderlust, Amiable, Approachable, Autodidact, etc.,.
 - ⚡ Fun facts: 
