@@ -17,5 +17,12 @@ A Firm believer of the statement 'Growth ceases when learning stops' and see eve
      2. May love photography, taking short films, audio and video editing.
      3. May write poems, blogs at quora and other places.
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saitharun24&show_icons=true&theme=dark&layout=compact)
+
+
+![Sai Tharun's github stats](https://github-readme-stats.vercel.app/api?username=saitharun24&show_icons=true&theme=dark)
+
+
 <!--
 **saitharun24/saitharun24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
