@@ -13,7 +13,7 @@ I am A Sai Tharun, An **aspiring app/web developer** with a special interest in 
 
 A Firm believer of the statement **'Growth ceases when learning stops'** and see every new opportunity as learning potential. 
 
-- 🔭 _I’m currently working on building engaging and new class of apps using flutter._
+- 🔭 _I’m currently working on building engaging and new class of [apps](https://docs.google.com/document/d/1ZJzuDf_NDhPqHEmJZSKKmWGdw2D4J_a4zL8AHJq7XGs/edit?usp=sharing) using flutter._
 - 🌱 _I’m currently learning [Machine Learning and Data Analysis](https://docs.google.com/document/d/1qhv-jP5PryAOzqifTfnsy04I5R6OybGDzpsOScSNAIM/edit?usp=sharing) along with [Image Processing](https://docs.google.com/document/d/1hSDgMjwZIRqr_x7kdjRixooQmDYCEcXIaPQyK2ggp74/edit?usp=sharing)._
 - 👯 _Exciting new projects are always a go go for me._
 - 😄 _Wanderlust, Amiable, Approachable, Autodidact, etc.,._
