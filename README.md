@@ -1,8 +1,12 @@
 ### Hi there 👋
 
-## [A. Sai Tharun](https://saitharun24.github.io/)
+## A. Sai Tharun
+
+![ASaiTharun_Portfolio](https://user-images.githubusercontent.com/50414959/137874153-3c3feaf5-ace2-4701-a102-2518083a462a.png)
+[A Sai Tharun](https://saitharun24.github.io)
 
 saitharun24@gmail.com
+
 
 I am Sai Tharun, An aspiring app/web developer with a special interest in machine learning and data analysis.
 
