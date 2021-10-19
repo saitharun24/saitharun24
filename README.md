@@ -3,7 +3,7 @@
 ## A. Sai Tharun
 
 ![ASaiTharun_Portfolio](https://user-images.githubusercontent.com/50414959/137874773-68e05152-4f89-4eb3-ba36-07653d5a2ad8.png)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [A Sai Tharun](https://saitharun24.github.io)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [A Sai Tharun](https://saitharun24.github.io)
 
 
 saitharun24@gmail.com
