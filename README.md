@@ -2,24 +2,25 @@
 
 ## A. Sai Tharun
 
-![ASaiTharun_Portfolio](https://user-images.githubusercontent.com/50414959/137874153-3c3feaf5-ace2-4701-a102-2518083a462a.png)
-[A Sai Tharun](https://saitharun24.github.io)
+![ASaiTharun_Portfolio](https://user-images.githubusercontent.com/50414959/137874773-68e05152-4f89-4eb3-ba36-07653d5a2ad8.png)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [A Sai Tharun](https://saitharun24.github.io)
+
 
 saitharun24@gmail.com
 
 
-I am Sai Tharun, An aspiring app/web developer with a special interest in machine learning and data analysis.
+I am A Sai Tharun, An **aspiring app/web developer** with a special interest in **machine learning and data analysis**.
 
-A Firm believer of the statement 'Growth ceases when learning stops' and see every new opportunity as learning potential. 
+A Firm believer of the statement **'Growth ceases when learning stops'** and see every new opportunity as learning potential. 
 
-- 🔭 I’m currently working on building engaging and new class of apps using flutter.
-- 🌱 I’m currently learning [Machine Learning and Data Analysis](https://docs.google.com/document/d/1qhv-jP5PryAOzqifTfnsy04I5R6OybGDzpsOScSNAIM/edit?usp=sharing) along with [Image Processing](https://docs.google.com/document/d/1hSDgMjwZIRqr_x7kdjRixooQmDYCEcXIaPQyK2ggp74/edit?usp=sharing).
-- 👯 Exciting new projects are always a go go for me.
-- 😄 Wanderlust, Amiable, Approachable, Autodidact, etc.,.
-- ⚡ Fun facts: 
-     1. May have conducted events.
-     2. May love [photography](https://www.instagram.com/picsby_tharun/), taking [short films](https://www.youtube.com/channel/UCe0bu8KQYOVwTQsavn2-IRQ), audio and video editing.
-     3. May write [poems](https://www.instagram.com/thoughtsof_tharun/), blogs at [quora](https://www.quora.com/profile/Sai-Tharun-51) and other places.
+- 🔭 _I’m currently working on building engaging and new class of apps using flutter._
+- 🌱 _I’m currently learning [Machine Learning and Data Analysis](https://docs.google.com/document/d/1qhv-jP5PryAOzqifTfnsy04I5R6OybGDzpsOScSNAIM/edit?usp=sharing) along with [Image Processing](https://docs.google.com/document/d/1hSDgMjwZIRqr_x7kdjRixooQmDYCEcXIaPQyK2ggp74/edit?usp=sharing)._
+- 👯 _Exciting new projects are always a go go for me._
+- 😄 _Wanderlust, Amiable, Approachable, Autodidact, etc.,._
+- ⚡ _Fun facts:_
+     1. _May have conducted events._
+     2. _May love [photography](https://www.instagram.com/picsby_tharun/), taking [short films](https://www.youtube.com/channel/UCe0bu8KQYOVwTQsavn2-IRQ), audio and video editing._
+     3. _May write [poems](https://www.instagram.com/thoughtsof_tharun/), blogs at [quora](https://www.quora.com/profile/Sai-Tharun-51) and other places._
 
 <br />
 
